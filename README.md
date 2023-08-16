@@ -3,7 +3,7 @@
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/rishu-kumar07"><img alt="LinkedIn" src="https://img.shields.io/badge/-rishu-kumar07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishu-kumar07/"></a>
+<a href="https://www.linkedin.com/in/rishu-kumar07"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp
 <a href="https://twitter.com/hello_rishu"><img alt="Twitter" src="https://img.shields.io/badge/-hello_rishu-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hello_rishu"></a>
 </p>
 
